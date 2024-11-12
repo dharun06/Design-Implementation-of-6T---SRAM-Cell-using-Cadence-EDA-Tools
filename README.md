@@ -84,7 +84,7 @@ For Transient Analysis Settings and Output
 
 ![IMG-20241019-WA0024](https://github.com/dharun06/Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools/blob/main/3RD.png?raw=true)
 
-![IMG-20241019-WA0023](https://github.com/user-attachments/assets/f7a02f13-935d-4320-b057-9d9bca02af82)
+![IMG-20241019-WA0023](https://github.com/dharun06/Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools/blob/main/Screenshot%20(140).png?raw=true)
 
 
 Results:
